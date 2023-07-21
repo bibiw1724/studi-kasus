@@ -255,8 +255,8 @@ public class DataBarang extends javax.swing.JFrame {
         });
         getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(313, 575, 64, -1));
 
-        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\SISWA\\Pictures\\374561.jpg")); // NOI18N
-        getContentPane().add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(-280, -300, 960, 910));
+        jLabel7.setIcon(new javax.swing.ImageIcon("C:\\Users\\SISWA\\Pictures\\New folder\\w2skwpy3.jpg")); // NOI18N
+        getContentPane().add(jLabel7, new org.netbeans.lib.awtextra.AbsoluteConstraints(-280, -180, 980, -1));
 
         jLabel8.setFont(new java.awt.Font("Tahoma", 0, 48)); // NOI18N
         jLabel8.setForeground(new java.awt.Color(255, 255, 255));

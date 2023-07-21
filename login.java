@@ -78,8 +78,8 @@ public class login extends javax.swing.JFrame {
         });
         getContentPane().add(jButton1, new org.netbeans.lib.awtextra.AbsoluteConstraints(220, 160, 69, -1));
 
-        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\SISWA\\Pictures\\HD-wallpaper-avenged-sevenfold-metalcore-rock-a7x-sevenfold-metal-avenged-heavy-metal-hard-rock-metalhead-thumbnail.jpg")); // NOI18N
-        getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 310, 190));
+        jLabel4.setIcon(new javax.swing.ImageIcon("C:\\Users\\SISWA\\Pictures\\New folder\\images (3).jpg")); // NOI18N
+        getContentPane().add(jLabel4, new org.netbeans.lib.awtextra.AbsoluteConstraints(0, 0, 290, 180));
 
         pack();
     }// </editor-fold>//GEN-END:initComponents
